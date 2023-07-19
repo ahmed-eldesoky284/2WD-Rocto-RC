@@ -17,7 +17,7 @@ Remote control (such as a smartphone with Bluetooth)
 Installation
 To install the software, follow these steps:
 
-Clone this repository: git clone https://github.com/MAzewail/2WD-Robot-RC.git
+Clone this repository: git clone https://github.com/ahmed-eldesoky284/2WD-Rocto-RC.git
 Connect the hardware components as shown in the diagram in the docs directory.
 Upload the 2wd-robot-rc.ino sketch to the Arduino board using the Arduino IDE.
 Install a Bluetooth terminal app on your remote control device.
